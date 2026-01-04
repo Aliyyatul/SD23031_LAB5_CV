@@ -8,3 +8,4 @@ plotly
 nltk
 PyPDF2
 torch
+torchvision
